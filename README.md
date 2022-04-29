@@ -11,7 +11,7 @@
 ****************************************************************************************************
 Projeto
 
-Projeto efetuado durante a Imersão Dev da Alura, seria uma nteflix somente com filmes 
+Projeto efetuado durante a Imersão Dev da Alura, seria uma netflix somente com filmes 
 de super herois.
 
 **************************************************************************************************
