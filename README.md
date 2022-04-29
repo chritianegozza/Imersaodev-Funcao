@@ -24,3 +24,4 @@ CSS
 JAVASCRIPT
 
 *****************************************************************************************************
+Caso queria ver o projeto feito na aula, [link](https://codepen.io/chritianegozza/full/abpBXXp)
