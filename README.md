@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/72118415/165871719-d991069e-8216-466e-a38d-e9cfdf878b22.png)
 
 ****************************************************************************************************
-Projeto
+👩🏻‍💻 Projeto
 
 Projeto efetuado durante a Imersão Dev da Alura, seria uma netflix somente com filmes 
 de super herois.
