@@ -1,4 +1,4 @@
-# Imersão Dev da Alura Função
+#  🚀Imersão Dev da Alura Função
 ****************************************************************************************************
 
 ![image](https://user-images.githubusercontent.com/72118415/165871667-03c52eb3-7546-4cc0-a796-68f54aeab4df.png)
