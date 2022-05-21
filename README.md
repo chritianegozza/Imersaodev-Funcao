@@ -17,11 +17,11 @@ de super herois.
 **************************************************************************************************
 Linguagem
 
-HTML
+✅ HTML
 
-CSS
+✅ CSS
 
-JAVASCRIPT
+✅ JAVASCRIPT
 
 *****************************************************************************************************
 Caso queria ver o projeto feito na aula, [link](https://codepen.io/chritianegozza/full/abpBXXp)
